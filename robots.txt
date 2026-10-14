@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bidreadytakeoffs.com/sitemap.xml
